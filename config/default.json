@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://mean123:mean123@cluster0.mvpbke4.mongodb.net/?retryWrites=true",
+  "jwtSecret": "secret123",
+  "githubUserID": "9a4da31a9efc7fb69133",
+  "githubSecret": "613758875cdf6a957e56545e9ac806200bf9306e"
+}
